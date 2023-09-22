@@ -1,3 +1,5 @@
+// Bangcaya: "Kung gumagana na, huwag nang galawin"
+
 import 'package:flutter/material.dart';
 
 void main() {
