@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 // Bangcaya: "Kung gumagana na, huwag nang galawin"
+=======
+//{Aseng}: {Silence do good}
+//{li_ahseng}: {I don't mind, I just don't}
+
+
+>>>>>>> 25aba938cd36d344bf5d1ea911dbd90cc6799e12
 
 import 'package:flutter/material.dart';
 
